@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 22, 2017
 
 ### Student Name:  
-(First and Last Name)
+Tyler Walker
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Learning about jquery and the features it provides to users, such as animations, and manipulation of DOM.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tylerdwalker.github.io/lesson7_jquery/Lesson7_Assignment/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to move the script source from two different html files.
+2. I learned that you can view and edit the page by using the DOM.
+3. I learned that jquery is a great way to modify and edit web pages.
